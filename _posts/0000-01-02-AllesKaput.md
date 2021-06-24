@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our intellectual abode!"
 ---
-Let's do great something!
+We can assume that we did something great!
 puf
